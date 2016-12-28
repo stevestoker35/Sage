@@ -36,6 +36,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="App.cs" />
+    <Compile Include="DAL.cs" />
     <Compile Include="RegularExpression.cs" />
     <Compile Include="ViewReference.cs" />
     <Compile Include="SearchTopics.cs" />
